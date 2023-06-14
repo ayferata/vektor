@@ -8,7 +8,7 @@ v.add("Sinop"); v.add("Trabzon"); v.add("Rize"); v.add("Đzmit");
 
  System.out.println("Vektörün uzunluğu :" + v.size()); 
         
- for (int i = 0; i < v.size(); i++) { System.out.println("Vektör öğesi : " + i + " :" +                     v.get(i));
+ for (int i = 0; i < v.size(); i++) { System.out.println("Vektör öğesi : " + i + " :" +   v.get(i));
         }
     }
 }
